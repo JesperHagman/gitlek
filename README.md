@@ -27,3 +27,5 @@ public class HelloWorld
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
+
+**Bold text** *Italicized text*
