@@ -22,7 +22,8 @@ public class HelloWorld
 
 [Youtube](https://www.youtube.com)
 
-| Syntax | Description |
-| ----------- | ----------- |
-| Header | En tabell |
-| Paragraph | Hjälp mig, jag vet inte vad jag gör |
+| Vänster     | Mitten      | Höger         |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
